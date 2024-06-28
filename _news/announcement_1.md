@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2020-11-16 
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+started as a **b.tech. undergraduate** in the department of civil engineering at **iit madras**.
