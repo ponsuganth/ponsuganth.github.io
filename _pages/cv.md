@@ -1,9 +1,9 @@
 ---
 layout: page
-title: cv
-permalink: /cv/
+title: resume
+permalink: /resume/
 nav: true
 nav_order: 3
 ---
 
-you can check my work out on my **[cv here](../assets/pdf/CV_Ponsuganth.pdf)**
+here's my **[resume](../assets/pdf/Resumev8.1_Ponsu.pdf)**
